@@ -19,4 +19,3 @@
 | 04 | Building a Quiz Game | 
 |||
 | 05 | Building a Guessing Game |
-|||
