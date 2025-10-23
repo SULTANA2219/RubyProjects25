@@ -12,9 +12,11 @@
 |--|--|
 | 01 | Building a Mad Libs Game |
 |||
-| 02 | Building a Calculator |
+| 02 | Building a Calculator(for integer) |
 ||| 
-| 03 | Building a Quiz Game | 
+| 03 | Building a Calculator(for float) |
+||| 
+| 04 | Building a Quiz Game | 
 |||
-| 04 | Building a Guessing Game |
+| 05 | Building a Guessing Game |
 |||
